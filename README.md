@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faramdox&label=Profile%20views&color=0e75b6&style=flat" alt="faramdox" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faramdox" alt="faramdox" /></a> </p>
+
 - 🔭 I’m currently working on **Proyek game edukasi pemrograman "Think and Code".**
 
 - 🌱 I’m currently learning **Rekayasa Perangkat Lunak, Java, HTML/CSS, dan logika algoritma (Flowgorithm) di Politeknik Negeri Lampung.**
@@ -21,6 +23,7 @@
 <a href="https://fb.com/damar adin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="damar adin" height="30" width="40" /></a>
 <a href="https://instagram.com/faramdox.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faramdox.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/damar adin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="damar adin" height="30" width="40" /></a>
+<a href="https://discord.gg/1393583733709213807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1393583733709213807" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faramdox&show_icons=true&locale=en&layout=compact" alt="faramdox" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faramdox&show_icons=true&locale=en" alt="faramdox" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faramdox&" alt="faramdox" /></p>
