@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rekayasa Perangkat Lunak, Java, HTML/CSS, dan logika algoritma (Flowgorithm) di Politeknik Negeri Lampung.**
 
-- 👨‍💻 All of my projects are available at [https://damaradinfirdaus.netlify.app/](https://damaradinfirdaus.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portofolio-damaradinfirdaus.netlify.app//](https://portofolio-damaradinfirdaus.netlify.app/)
 
 - 📫 How to reach me **mradinfirdaus@gmail.com**
 
